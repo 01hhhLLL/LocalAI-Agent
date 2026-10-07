@@ -1,6 +1,7 @@
 {
   "files": [
-    "README-release.md",
+    "README.md",
+    "assets/dragon-voice-icon-head-v1.ico",
     "assets/dragon-voice-icon-head-v1.png",
     "docs/ARCHITECTURE.md",
     "docs/TECHNICAL.md",
@@ -9,6 +10,7 @@
     "installer/build-release.ps1",
     "installer/build_payload.py",
     "installer/build_public_source.py",
+    "installer/make-icon.ps1",
     "installer/vision-provider.toml",
     "knowledge/application-aliases.json",
     "pyproject.toml",

@@ -1,5 +1,9 @@
 # LocalAI Agent for Windows — preview
 
+Download the current [Windows x64 installer preview](releases/LocalAI-Agent-preview-v2-win-x64.exe).
+Its application icon uses the supplied dragon-girl reference as a headshot.
+The earlier `LocalAI-Agent-preview-win-x64.exe` is retained only as an older preview.
+
 This is an early, local-first voice/desktop agent. The installer copies the
 reviewed application source, shows hardware and dependency checks, and can
 store a user-supplied visual API credential in Windows Credential Manager.

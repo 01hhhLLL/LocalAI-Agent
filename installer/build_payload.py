@@ -32,6 +32,8 @@ def selected(path: str) -> bool:
         return True
     if path == "assets/dragon-voice-icon-head-v1.png":
         return True
+    if path == "assets/dragon-voice-icon-head-v1.ico":
+        return True
     if path == "knowledge/application-aliases.json":
         return True
     if (len(parts) == 2 and parts[0] == "services" and

@@ -15,6 +15,7 @@ EXTRA = {
     "installer/build-release.ps1",
     "installer/build_payload.py",
     "installer/build_public_source.py",
+    "installer/make-icon.ps1",
     "installer/vision-provider.toml",
 }
 PUBLIC_IGNORE = """dist/\ninstaller/payload.zip\ninstaller/bin/\ninstaller/obj/\nconfig/\ncache/\ndata/\nlogs/\nmodels/\npackages/\nruntime/\ntests/\n*.wav\n*.flac\n*.mp4\n*.mkv\n*.sqlite3\n*.db\n.env*\n*token*\n*secret*\n*private*key*\n*credential*\n"""
@@ -30,17 +31,19 @@ def main() -> None:
     if target.exists():
         raise RuntimeError(f"Export already exists: {target}")
     target.mkdir(parents=True)
+    published = []
     for name in chosen:
         source = ROOT / name
         if not source.is_file() or source.is_symlink() or source.stat().st_size > 5_000_000:
             raise RuntimeError(f"Unexpected public source file: {name}")
         relative = "README.md" if name == "README-release.md" else name
+        published.append(relative)
         destination = target / relative
         destination.parent.mkdir(parents=True, exist_ok=True)
         shutil.copyfile(source, destination)
     (target / ".gitignore").write_text(PUBLIC_IGNORE, encoding="utf-8")
     (target / "release-source-manifest.json").write_text(
-        json.dumps({"files": chosen}, ensure_ascii=False, indent=2), encoding="utf-8")
+        json.dumps({"files": sorted(published)}, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Public export: {target}; {len(chosen)} reviewed source files")
 
 
