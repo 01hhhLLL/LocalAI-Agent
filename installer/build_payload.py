@@ -28,6 +28,8 @@ def selected(path: str) -> bool:
         return False
     if path in TOP_LEVEL | DOCS:
         return True
+    if path == "README.md" and not (ROOT / "README-release.md").is_file():
+        return True
     if path == "assets/dragon-voice-icon-head-v1.png":
         return True
     if path == "knowledge/application-aliases.json":
@@ -42,7 +44,7 @@ def main() -> None:
     tracked = subprocess.check_output(["git", "ls-files", "-z"], cwd=ROOT)
     names = [entry.decode("utf-8") for entry in tracked.split(b"\0") if entry]
     chosen = sorted(name for name in names if selected(name))
-    if not chosen or "README-release.md" not in chosen:
+    if not chosen or not ({"README-release.md", "README.md"} & set(chosen)):
         raise RuntimeError("Release documentation is not committed")
     manifest = []
     with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
