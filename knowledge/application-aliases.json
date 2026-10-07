@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "applications": [
+    {
+      "canonical_name": "DaVinci Resolve",
+      "aliases": ["达芬奇"],
+      "source": "user_confirmed"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[provider]
+base_url = "https://api-inference.modelscope.cn/v1"
+model = "Qwen/Qwen3.8-Flash-Next"
+max_image_side = 1024
+credential_target_primary = "LocalAI-Agent/ModelScopeVision"
+credential_target_secondary = "LocalAI-Agent/ModelScopeVision2"
+
+[request]
+temperature = 0.2
+top_p = 0.8
+top_k = 20
+presence_penalty = 0.0
+max_tokens = 768
+enable_thinking = false
+
+[locate]
+minimum_confidence = 0.65
