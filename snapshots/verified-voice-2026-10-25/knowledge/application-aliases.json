@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "applications": [
+    {
+      "canonical_name": "DaVinci Resolve",
+      "aliases": ["达芬奇"],
+      "source": "user_confirmed"
+    },
+    {
+      "canonical_name": "Cities: Skylines II 都市：天际线2",
+      "aliases": ["都市天际线2", "都市天际线二", "天际线2", "天际线二"],
+      "source": "user_confirmed"
+    },
+    {
+      "canonical_name": "Adobe After Effects 2026",
+      "aliases": ["After Effects", "After Effects 2026", "AE", "特效软件"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "Adobe Lightroom Classic",
+      "aliases": ["Lightroom Classic", "ALC", "灰片还原", "调色"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "Adobe Premiere Pro 2026",
+      "aliases": ["PR", "Premiere Pro", "Premiere"],
+      "source": "user_confirmed_local_installation"
+    },
+    {
+      "canonical_name": "Clash.for.Windows-0.20",
+      "aliases": ["Clash for Windows", "VPN猫"],
+      "source": "local_executable_name"
+    },
+    {
+      "canonical_name": "Excel",
+      "aliases": ["Microsoft Excel", "微软Excel"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "Google Chrome",
+      "aliases": ["Chrome浏览器", "谷歌浏览器"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "Google Drive",
+      "aliases": ["Google云端硬盘", "谷歌云端硬盘"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "Microsoft Edge",
+      "aliases": ["Edge浏览器", "微软Edge"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "Office Language Preferences",
+      "aliases": ["Office语言首选项"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "Paradox Launcher v2",
+      "aliases": ["Paradox Launcher", "Paradox启动器", "P社启动器", "蜥蜴启动器"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "PowerPoint",
+      "aliases": ["Microsoft PowerPoint", "微软PowerPoint", "PPT"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "Publisher",
+      "aliases": ["Microsoft Publisher"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "Steam",
+      "aliases": ["Steam客户端"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "Tianshu",
+      "aliases": ["天枢"],
+      "source": "local_installation_name"
+    },
+    {
+      "canonical_name": "VMware Workstation 17 Player",
+      "aliases": ["VMware Player"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "VMware Workstation Pro",
+      "aliases": ["VMware Pro", "VMware", "VM", "虚拟机"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "Word",
+      "aliases": ["Microsoft Word", "微软Word"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "iSlide 诊断工具箱",
+      "aliases": ["iSlide工具箱"],
+      "source": "local_installation_name"
+    },
+    {
+      "canonical_name": "底特律：化身为人",
+      "aliases": ["Detroit Become Human", "底特律"],
+      "source": "local_executable_name"
+    },
+    {
+      "canonical_name": "百度网盘",
+      "aliases": ["百度网盘客户端"],
+      "source": "product_name"
+    },
+    {
+      "canonical_name": "绿色地狱",
+      "aliases": ["Green Hell"],
+      "source": "local_executable_name"
+    },
+    {
+      "canonical_name": "虚拟网络编辑器",
+      "aliases": ["VMware虚拟网络编辑器"],
+      "source": "local_installation_name"
+    },
+    {
+      "canonical_name": "饥荒联机版",
+      "aliases": ["Don't Starve Together"],
+      "source": "local_installation_name"
+    }
+  ]
+}

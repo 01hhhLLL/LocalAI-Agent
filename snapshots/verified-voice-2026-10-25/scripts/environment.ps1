@@ -1,0 +1,14 @@
+$ErrorActionPreference = 'Stop'
+$projectRoot = Split-Path -Parent $PSScriptRoot
+$env:UV_CACHE_DIR = Join-Path $projectRoot 'cache\uv'
+$env:UV_PYTHON_INSTALL_DIR = Join-Path $projectRoot 'runtime\python'
+$env:UV_PROJECT_ENVIRONMENT = Join-Path $projectRoot 'runtime\foundation'
+$env:UV_PYTHON_BIN_DIR = Join-Path $projectRoot 'runtime\bin'
+$env:UV_NO_MODIFY_PATH = '1'
+$env:HF_HOME = Join-Path $projectRoot 'cache\huggingface'
+$env:TORCH_HOME = Join-Path $projectRoot 'cache\torch'
+$env:MODELSCOPE_CACHE = Join-Path $projectRoot 'cache\modelscope'
+$env:PIP_CACHE_DIR = Join-Path $projectRoot 'cache\pip'
+$env:TEMP = Join-Path $projectRoot 'cache\temp'
+$env:TMP = $env:TEMP
+$env:PYTHONDONTWRITEBYTECODE = '1'

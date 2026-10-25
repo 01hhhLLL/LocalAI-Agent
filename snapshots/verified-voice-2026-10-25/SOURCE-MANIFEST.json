@@ -1,0 +1,425 @@
+{
+  "source_commit": "1131ed946605896d5db2b4115695f250e98e288f",
+  "files": [
+    {
+      "path": "assets/dragon-voice-icon-head-v1.ico",
+      "sha256": "598542a8cd076a3eb974fabf71019e61c2188cc1d770aa44f62cd6eefd4b89a2"
+    },
+    {
+      "path": "assets/dragon-voice-icon-head-v1.png",
+      "sha256": "53602071c31342cc4c073225908ea45ced9e09c0baf03e69a11cab2a1f3ab241"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-0.png",
+      "sha256": "65e5561c259f86624ae1c3b17e7229668e5f4b5be9c4240a7caa0a4eae7b51fe"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-1.png",
+      "sha256": "6ba9e8d1586303fb55e05e139f8fe959532c1704cf7c73265adb28c544607be1"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-2.png",
+      "sha256": "0ec78d3585df4942ee92dafb5de2dbc088b585db7321cd07e8ce875413ebb3b0"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-3.png",
+      "sha256": "4f624aa6d1d83784f8bd114f8fa2b40b251254a428ab3a06512698e6f0c51e44"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-4.png",
+      "sha256": "5cf3f18fa1dfceefd56ed35995751592a7644eacc4eafaa6be60a1d8dc71e2d1"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-5.png",
+      "sha256": "f7bad178c9f74eabcc08dc653874fdafb6b06cdccff035006bd19e57e12cb348"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-6.png",
+      "sha256": "12867ed9487ddf9596966a6b7c47b03990109058dc4574d9799d1f9280bd78e1"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-7.png",
+      "sha256": "42dbbac2e4120b62e6f1ad3682b407f2fb2d5b677d4736512b423c5eb7330981"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-climb-0.png",
+      "sha256": "0bdf1aa76a5aff5551b516ff981b7edb5c4d0079562cf47732b9d74fa6992a6c"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-climb-1.png",
+      "sha256": "826ac12fccf76bfc7dd669e61556d35d35f24a0d9a3919e211807fc37a219855"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-climb-2.png",
+      "sha256": "4193eb5d5ba01141e7497c170595626259ff398c9fccc4670e102c16e5d27bcf"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-climb-3.png",
+      "sha256": "1952e43d24e66e3ee8a37a65fd1b909f0f7a26d8b5c59f045c6e49c103a5202b"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-sleep-0.png",
+      "sha256": "168e0bd5f9b0a603214a58478a0457abebf2bc350dea2a5b451db76d9b67cb3f"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-sleep-1.png",
+      "sha256": "d756e3d79f68e16cec0c85b02fb23225191217f0cd69d31106c242e77ae08e0e"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-walk-0.png",
+      "sha256": "2dab49ea9477613a39ed03742beec63f6aad17728d2daccfe7ea54dc76a83ec8"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-walk-1.png",
+      "sha256": "dacb56cf2d1ac3a9e075c5cf5dff2c52a5b63921eac00798b34aa61ba13bc155"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-walk-2.png",
+      "sha256": "50f8ac6301d9c955aacb3704d90032eb715c94c23ff4c473a1f8c0172479f50d"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-walk-3.png",
+      "sha256": "90abbd4bba3a3ea83ac128240bd15b6fb0c2be240468d8d6b7b2fa36cd762bcb"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-walk-4.png",
+      "sha256": "c3709ec5c55d3f7e6f30577ceb9218baa05431aad73af64d9005348ded651010"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-walk-5.png",
+      "sha256": "fd180e96aa1e868e3be3ac6ff78f3c4129fd1d4c3e08393f8e45f3a6761f0dd7"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-walk-6.png",
+      "sha256": "ebcd819b139ee052197f9da34546bf1e35c6bd322cf7c80ae69142560bad0e8c"
+    },
+    {
+      "path": "assets/voice-mascot/chibi-walk-7.png",
+      "sha256": "1babe311bb758433ffabd846ec118a89fdc5273f5dbb1aafaae47747d2b37b67"
+    },
+    {
+      "path": "assets/voice-mascot/normal-0.png",
+      "sha256": "b7e0ab708801ab8a5b2324f01b9ab38c1774d64e84d1abb43da33cb1569ded7b"
+    },
+    {
+      "path": "assets/voice-mascot/normal-1.png",
+      "sha256": "def91b8fe23d2746fcc607d285c4923bdcac917f17bc41bddf46f6b2ba1ef2f7"
+    },
+    {
+      "path": "assets/voice-mascot/normal-2.png",
+      "sha256": "1fc477b959e84abf49bd71a39bfbb0b7af068559a51f05464a73c6aebbf820b3"
+    },
+    {
+      "path": "assets/voice-mascot/normal-3.png",
+      "sha256": "d70a34a19667668ee033fccfc980b565a5827447c9adde0f433c4ab83521b3cd"
+    },
+    {
+      "path": "assets/voice-mascot/normal-4.png",
+      "sha256": "2ca9720c513d61d67c2ff2ae0dc7918f41606996d40451a40c665e7f9a711a6a"
+    },
+    {
+      "path": "assets/voice-mascot/normal-5.png",
+      "sha256": "e54b0f2019c178e2e711ca67f066ed59710717483fcc0271606d131b454eeff1"
+    },
+    {
+      "path": "assets/voice-mascot/normal-6.png",
+      "sha256": "9dfefb8b9ab673382ffe77cad9e00c4eeb9dfc91f7f66472f4ac2a2863679917"
+    },
+    {
+      "path": "assets/voice-mascot/normal-7.png",
+      "sha256": "e4a44feea2683c67af960fb9b4a5a1a4253b45fa9d5e57616c02a1f4a02b3636"
+    },
+    {
+      "path": "assets/voice-mascot/normal-climb-0.png",
+      "sha256": "da01e307d7179a1ab539a4235af0e63a0792145f2410c82476a81a0619f8cfa5"
+    },
+    {
+      "path": "assets/voice-mascot/normal-climb-1.png",
+      "sha256": "8d0850329110ab7d074788b197e3a46ad5f150ce8b98a69a8fae895e727661ee"
+    },
+    {
+      "path": "assets/voice-mascot/normal-climb-2.png",
+      "sha256": "70a4313eed6eeb8abd7204a409c74729389fe3a3423bb9e8a592b9853c77b72d"
+    },
+    {
+      "path": "assets/voice-mascot/normal-climb-3.png",
+      "sha256": "fffca9e4926569d4980d2c05e1bc404967c6c0eb0390ec106da5a55145a364f7"
+    },
+    {
+      "path": "assets/voice-mascot/normal-sleep-0.png",
+      "sha256": "5b9485edf41e662bfd536aa73044f89af87488ebfbdc5dd9091dccd083d3ff9e"
+    },
+    {
+      "path": "assets/voice-mascot/normal-sleep-1.png",
+      "sha256": "82b24be59be70f3ceb9ad161301382b7f595bf4b3878df4d5eb9c57dd705d1c3"
+    },
+    {
+      "path": "assets/voice-mascot/normal-walk-0.png",
+      "sha256": "df02ed7f5b0d133d1309cfd15d3580e79fabd7a30a540f4a79e5cdd2a96ebba0"
+    },
+    {
+      "path": "assets/voice-mascot/normal-walk-1.png",
+      "sha256": "846d1e5410f5b5e503e843054ec68d197dd312fc1bced6c3ab6c153eadac1922"
+    },
+    {
+      "path": "assets/voice-mascot/normal-walk-2.png",
+      "sha256": "87ca19b53d803271391b36e60fb4c8105ab8b7ac117e805ab815e691c06ff9ab"
+    },
+    {
+      "path": "assets/voice-mascot/normal-walk-3.png",
+      "sha256": "1bab8d965594fd41f15035a3f57f7cada16f2f4bb672179b87b08adf962921fb"
+    },
+    {
+      "path": "assets/voice-mascot/normal-walk-4.png",
+      "sha256": "2315a6147de00aeb814b50fcbf275f14a740361dd3f866a7c768f1562e174f8a"
+    },
+    {
+      "path": "assets/voice-mascot/normal-walk-5.png",
+      "sha256": "347250d98a26de037c6c153622c0542896f61a9ff216da811ea2da06cbe5ca2d"
+    },
+    {
+      "path": "assets/voice-mascot/normal-walk-6.png",
+      "sha256": "58c28bec2d6ae1884002062bc6153ff9c19363e5ba1bbec7d6515bbd60c8c7b1"
+    },
+    {
+      "path": "assets/voice-mascot/normal-walk-7.png",
+      "sha256": "454b04e3f29c1a03514eb5d62d7ed58ff86714ecba4e6332443fbace4c7dd053"
+    },
+    {
+      "path": "config/vision-provider.toml",
+      "sha256": "2c7ba6291edcecc6e7f7f061f34d11d15c4650d0286a1410ee28075bf4f0c6d7"
+    },
+    {
+      "path": "knowledge/application-aliases.json",
+      "sha256": "6581e5a4d0a7a6871443c20eac431f27135d69be08b7f3a7c9d3c101de22afd7"
+    },
+    {
+      "path": "knowledge/application-descriptions.json",
+      "sha256": "c46bc7bb4f2b54e2265ba83e4e04e90a919e516fb8ba63caaefeea9e0cbd5688"
+    },
+    {
+      "path": "knowledge/application-visibility.json",
+      "sha256": "c1166fd3b30e63e1ecc372a4ed26e4d599d3a1a9f1556ac1b37ac06db4e48047"
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "f93cd2c2704cf38b068bba558734a2c1e572f87fbca30e9861b6a4204c33730a"
+    },
+    {
+      "path": "scripts/capture-screen.ps1",
+      "sha256": "76269839645aa7e16294d55c007e4902778647b1430e5eabde6c9de96ed43707"
+    },
+    {
+      "path": "scripts/download-model.py",
+      "sha256": "d94616d848472cdec636250698e8a6ed6a77f49f872c30334b79ca80d8f93e09"
+    },
+    {
+      "path": "scripts/download-sherpa-model.py",
+      "sha256": "8d040b07f042634d9f3475b5000193299899e1c5836040582c6f820490750c64"
+    },
+    {
+      "path": "scripts/environment.ps1",
+      "sha256": "cfbc1ca89714a341223c718812ba693140287f420eb2496544f98471bcb5b0f5"
+    },
+    {
+      "path": "scripts/local-api.ps1",
+      "sha256": "8ca68d5f758593478b245e25f61cebfdaba9e19008750992c2c398beedd4de29"
+    },
+    {
+      "path": "scripts/local-ocr.py",
+      "sha256": "a859ccde9886f2282b0d9746045ddd6b4b748703d03b76d5b3efc3f707e73ec8"
+    },
+    {
+      "path": "scripts/run-hermes-bounded.py",
+      "sha256": "19ce261c31b3dd98735880db54635bbfc08c8fd51e6346cee1fd5bf813ed54c6"
+    },
+    {
+      "path": "scripts/run-hotkey-command.py",
+      "sha256": "172898229e098d569afb187c9908dd781e12cbce493e8ba06e35c513ff8fd528"
+    },
+    {
+      "path": "scripts/start-app-and-wait.ps1",
+      "sha256": "6ef32d6a403ff4f0d93a53713f6366a8ead2be0ccefc2cc3f5c492fd3ec2d286"
+    },
+    {
+      "path": "scripts/transcribe-hotkey-recording.py",
+      "sha256": "8b79cf5097accc7c2b10bed2f1d98fcaac49881276ce5d901b809e62ae825257"
+    },
+    {
+      "path": "scripts/vision-locate.ps1",
+      "sha256": "fe78a96849afa8144d3059df786d7b2c9107851776d825fb759807e0c026a764"
+    },
+    {
+      "path": "scripts/vision-locate.py",
+      "sha256": "f11ceb70a1c42532a68e2959a23f003e5352d862b4fea23ba54360c2f2574317"
+    },
+    {
+      "path": "scripts/voice-hotkey-desktop.ps1",
+      "sha256": "a2b8d8594a4102f0ba2df631dbce8f678939f3d1d2f312b9a02c13cf42c65750"
+    },
+    {
+      "path": "scripts/voice-hotkey.ps1",
+      "sha256": "7b5c9ac6ce18b647c7fa65aa92709d1306528d5bb34902a5bf63ea4283d19575"
+    },
+    {
+      "path": "services/app_launch_broker.py",
+      "sha256": "7d0af24633a9dd1e450d29a771c79a35f1705f41372f5e6817aaf08acddad94a"
+    },
+    {
+      "path": "services/app_launch_broker_uac.py",
+      "sha256": "fdc295087689b5ef8407ec34e918bd8ce61c3bf1c7a1b5cff2255f16491d7d36"
+    },
+    {
+      "path": "services/application_discovery.py",
+      "sha256": "78135d82b491a4fe7cab3e6de973f9fb18478c0b9d632d1a9390968d6b82487e"
+    },
+    {
+      "path": "services/application_lookup.py",
+      "sha256": "d0d0048b03ec2a11b308ebd7033df6186ecc0fbc8eead930689edc9be4a2f9f9"
+    },
+    {
+      "path": "services/application_registry.py",
+      "sha256": "1608468a5f595814f07730e66ab4757b7e5835b5e7492263856ec9dd6507cc8e"
+    },
+    {
+      "path": "services/approved_window_process.py",
+      "sha256": "4c60403d92cfe0e859131153e055bd737c23e7990969c82bcc8ad51ca7adfd3d"
+    },
+    {
+      "path": "services/asr_flow.py",
+      "sha256": "cec6bcf95a875b5da3bfaf5ca3572bbe41b1a9a003b5eb31b6a58f93edd94cf4"
+    },
+    {
+      "path": "services/candidate_experiment.py",
+      "sha256": "7a574dbba5787800bcad85e288a1d0b7504c53673b84583084284ddbd717bda7"
+    },
+    {
+      "path": "services/candidate_resolution.py",
+      "sha256": "215769fa1295ad7e50c1940ec0c0d469902b66001a77a6e3e3f27ae67de8a504"
+    },
+    {
+      "path": "services/compact_window_action.py",
+      "sha256": "c1f101989f8a66c5557ee9a4491dc7f5b773839a69a923be7681a0e91073310e"
+    },
+    {
+      "path": "services/elevated_pointer_action.py",
+      "sha256": "8adc7264e8121d6c5c522ce924039c65f1c96200675d32bbc1fcd4f87394d6a3"
+    },
+    {
+      "path": "services/integration_agent.py",
+      "sha256": "2b1eb5455be930ca82716393cf237cc1414c9215b8923592e07131314fc353e9"
+    },
+    {
+      "path": "services/integration_intents.py",
+      "sha256": "baa325398c4bc9467c50144d234d372d83d5e434451267ca37cef1a3c0d983ee"
+    },
+    {
+      "path": "services/launch_intent.py",
+      "sha256": "24c6003b2bbf9bffd7bbb2e91709b1019f7898de29c60d15df8a9c0af9ddc732"
+    },
+    {
+      "path": "services/local_openai_api.py",
+      "sha256": "342e0313ea5c8af48fb41e0b0a20added833e65b4f97931925954b4f067faa73"
+    },
+    {
+      "path": "services/model_preflight.py",
+      "sha256": "2c750b6f4425aa76f414278dd0a1abc92ae31c993407e4508ff381ee9a330b7e"
+    },
+    {
+      "path": "services/model_resources.py",
+      "sha256": "1757862e75d2df69877b7096a78e61deba992ea6380c30884e9d71a96bbd421e"
+    },
+    {
+      "path": "services/modelscope_vision.py",
+      "sha256": "0796a52593df5a7e204a37d3cfb6a7e788fbbf516be9a15ad974be6ec5ad63ce"
+    },
+    {
+      "path": "services/native_catalog_image.py",
+      "sha256": "389d537c97e6a3ffa394b48ad51dd7c5bf0eca3c9a02f92ba49d8c5d70b69568"
+    },
+    {
+      "path": "services/pointer_snapshot.py",
+      "sha256": "63c34c98f47ae0e40c547a0fe9b72e64d6ab16c6a246a46fcaabe6775bb65fd7"
+    },
+    {
+      "path": "services/project_environment.py",
+      "sha256": "75e86cef068deba0f28dd21bd081145d154ec4ad1ab30d591ea5a1d76a79fb1f"
+    },
+    {
+      "path": "services/provider_mcp.py",
+      "sha256": "8462caa2c22a0a166a4ed6eb663a4efb337058f2b0c447e9c578bf97ec3c0c9c"
+    },
+    {
+      "path": "services/semantic_candidates.py",
+      "sha256": "a3c9e36209af70c95258de9564fd429ddf7808e16d63299cb29465f711b3892d"
+    },
+    {
+      "path": "services/sherpa_asr.py",
+      "sha256": "00744d2c84046c5f80585aae9b8a210b73d53cf45951e68a24a4a5f0c6699574"
+    },
+    {
+      "path": "services/step_runtime.py",
+      "sha256": "49770279a5ed51086a9ae788f51865fc80e83637621e81c960200c25ef789d4a"
+    },
+    {
+      "path": "services/task_entry.py",
+      "sha256": "f8f5e61d008851a04b0c11155395fc6f9d61dfd47058665eae2a1b5c03232784"
+    },
+    {
+      "path": "services/text_model.py",
+      "sha256": "063385fe1920db5d90dad701f53a4e5b14c9dee0a1f819215752f791f55ed8de"
+    },
+    {
+      "path": "services/tool_integrations.py",
+      "sha256": "75795abd3b25ba45d2f6d1f625d755740a0837f81cd79244f06cd6da856e05ea"
+    },
+    {
+      "path": "services/tool_integrations_mcp.py",
+      "sha256": "bec7328e2931d682acbeb75d2f5260a19471e54d0e43375b17dfa9bdd2efe3b7"
+    },
+    {
+      "path": "services/tuba_tool_catalog.py",
+      "sha256": "cfb89daec3f53e8c45ffde3d09b9e6b0a6fc99084ab2114ba557ef48b9a20d32"
+    },
+    {
+      "path": "services/vision_desktop_mcp.py",
+      "sha256": "77c4bee3857370a18ac60d486663b362e812cd5b74c3f92e9bc005e631cea11b"
+    },
+    {
+      "path": "services/visual_application_check.py",
+      "sha256": "aed19604d316448ccaea2a692b8a5e7fd288c28a4b12f7cd57c64d8004f19182"
+    },
+    {
+      "path": "services/voice_appearance.py",
+      "sha256": "8c84cd259f6d33ba1b3aae7d5d37bc8d0181ed51e9ea960366e99a24fc62f2c5"
+    },
+    {
+      "path": "services/voice_candidates.py",
+      "sha256": "4be8172105a5c6a75cd354d1114fa73649b3c9d0fdfc60bd9004731694534145"
+    },
+    {
+      "path": "services/voice_hotkey.py",
+      "sha256": "19d5ba82b01b672578aeb323ee9d0f43e81c1dd8bed35987143ca0f5356952fb"
+    },
+    {
+      "path": "services/voice_mascot.py",
+      "sha256": "04e33f1c286a90abceb35be8a3f810ccd77c8bc2cb41e8ba922d2adb21636722"
+    },
+    {
+      "path": "services/voice_process_lifetime.py",
+      "sha256": "ee9bf580c07a3fe378882f23e436235bd9a004416eb48eda7070d812e36fee0d"
+    },
+    {
+      "path": "services/voice_task_plan.py",
+      "sha256": "59028c8833fdea969ba3049073056da16bd424d0c58eede2c973176a42d1050c"
+    },
+    {
+      "path": "services/web_alias_resolution.py",
+      "sha256": "4838551b3f4ae87a7aa109c6a185e514df14e3418701d32e271cf420dbabb9b4"
+    },
+    {
+      "path": "uv.lock",
+      "sha256": "14766877d191d9f385ac67e22ea619e3bba482dca1f2f72bc325287238d6fa63"
+    }
+  ]
+}
