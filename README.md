@@ -1,5 +1,9 @@
 # LocalAI Agent for Windows — preview
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/01hhhLLL/LocalAI-Agent?style=social)](https://github.com/01hhhLLL/LocalAI-Agent/stargazers)
+[![Release](https://img.shields.io/github/v/release/01hhhLLL/LocalAI-Agent)](https://github.com/01hhhLLL/LocalAI-Agent/releases)
+
 Download the current [Windows x64 installer preview](releases/LocalAI-Agent-preview-v2-win-x64.exe).
 Its application icon uses the supplied dragon-girl reference as a headshot.
 The earlier `LocalAI-Agent-preview-win-x64.exe` is retained only as an older preview.
